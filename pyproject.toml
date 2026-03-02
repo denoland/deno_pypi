@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
 license-files = ["LICENSE"]
-authors = [{ name = "Trevor Manz", email = "trevor.j.manz@gmail.com" }]
+authors = [{ name = "the Deno authors", email = "support@deno.com" }]
 
 [build-system]
 requires = ["hatchling"]
