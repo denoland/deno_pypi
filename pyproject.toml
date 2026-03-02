@@ -8,6 +8,10 @@ license = "MIT"
 license-files = ["LICENSE"]
 authors = [{ name = "the Deno authors", email = "support@deno.com" }]
 
+[project.urls]
+homepage = "https://deno.com"
+documentation = "https://docs.deno.com"
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
